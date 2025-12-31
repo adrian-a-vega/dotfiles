@@ -118,9 +118,12 @@
 ;; ... anything there
 )
 (require 'org-re-reveal)
+
 (setq +latex-viewers '(pdf-tool))
-(setq org-latex-compiler "xelatex")
-(setq org-latex-pdf-process "xelatex %f")
+(setq org-latex-compiler "pdflatex")
+(setq org-latex-pdf-process '("pdflatex %f"))
+
+
 ;; LaTeX paper setup code from gitHub: jakebox
 (with-eval-after-load 'ox-latex
 (add-to-list 'org-latex-classes
