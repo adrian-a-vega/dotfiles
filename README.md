@@ -11,3 +11,7 @@
 3. An adgenda with TO-DO presented.
 4. Including, LaTex exports from .org files.
 #### Org-Roam
+
+## Kitty Terminal
+- Being honest, I use the kitty terminal because the mac terminal is ugly.
+- It allows for more customization.
