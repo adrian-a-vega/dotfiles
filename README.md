@@ -1,0 +1,13 @@
+# Dotfiles
+- These files contain my configurations for Emacs and Kitty Terminal.
+## Emacs
+### Why use Emacs?
+- My main purpose of using emacs is for note taking, to-do lists, and calender. Eventhough emacs very outdatd, I pair emacs with Doom core for ease of use. With Doom, I'm able to use other add-ons like org mode and org roam. Also, I think it looks pretty.
+#### Org-Mode
+- Org mode is like a digital notebook that is all formated in plain text.
+- The add-on provides:
+1. Easy note taking with collapsable bullet points.
+2. Project management with TO-DO lists with prioity assignments and due dates.
+3. An adgenda with TO-DO presented.
+4. Including, LaTex exports from .org files.
+#### Org-Roam
